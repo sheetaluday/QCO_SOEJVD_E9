@@ -1,4 +1,4 @@
-package ScreenShots;
+package Assignments123;
 
 import java.io.File;
 import java.io.IOException;

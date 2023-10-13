@@ -36,6 +36,7 @@ public class xpathtraversing2 {
 		//wait.until(ExpectedConditions.elementToBeClickable(login));
 		JavascriptExecutor js=(JavascriptExecutor)driver;
 		js.executeScript("arguments[0].click();",Login);
+		
 	    // login.click();
 			//System.out.println(value.getText());
 	}
